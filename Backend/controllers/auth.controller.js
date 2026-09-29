@@ -1,5 +1,4 @@
 // for athentication controller
-
 const User = require('../models/auth.model');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
